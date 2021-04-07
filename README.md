@@ -13,9 +13,9 @@
   </p>
   <p align="center">
     <br />
-    <a href="link-para-abrir-issue">Report Bug</a>
+    <a href="https://github.com/carlosdnba/mongodb4noobs/issues/new">Report Bug</a>
     ·
-    <a href="link-para-abrir-issue">Request Feature</a>
+    <a href="https://github.com/carlosdnba/mongodb4noobs/pulls">Request Feature</a>
   </p>
 </p>
     
