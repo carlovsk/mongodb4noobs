@@ -13,9 +13,6 @@
   </p>
   <p align="center">
     <br />
-    <a href="#ROADMAP"><strong>Explore a documentação »</strong></a>
-    <br />
-    <br />
     <a href="link-para-abrir-issue">Report Bug</a>
     ·
     <a href="link-para-abrir-issue">Request Feature</a>
@@ -27,7 +24,7 @@
 ## Sobre o Projeto
 Explique um pouco sobre o 4noobs que está desenvolvendo.
 
-<!-- ROADMAP OF PROJECT -->
+<!-- ROADMAP -->
 
 ## ROADMAP
 
@@ -56,15 +53,40 @@ são **extremamente apreciadas**
 4. Realize o Push no Branch (`git push origin feature/featureBraba`)
 5. Abra um Pull Request
 
+<!-- AUTHORS -->
+
 ## Autores
 
 - **Carlos Daniel (carlosdnba)** - _Full Stack Developer_ - [Portifólio](http://carlosdnba.me/) - [Linkedin](https://www.linkedin.com/in/carlos-daniel-barboza)
+
+
+#
+## Contribuidores ✨
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<table>
+    <tr>
+        <td align="center">
+            <a href="https://github.com/carlosdnba">
+                <img src="https://avatars.githubusercontent.com/u/64426814?v=4" width="100px;" alt="" /><br />
+                <sub><b>Carlos Daniel</b></sub>
+            </a><br />
+            <a href="https://github.com/carlosdnba" title="Code">💻</a>
+            <a href="#ideas" title="Ideas, Planning, & Feedback">🤔</a>
+            <a href="#maintenance" title="Maintenance">🚧</a>
+            <!--<a href="https://github.com/carlosdnba/mongodb4noobs/pulls?q=is%3Apr+is%3Aopen+reviewed-by%3A%40carlosdnba" title="Reviewed Pull Requests">👀</a>-->
+        </td>
+    </tr>
+</table>
 
 ---
 
 <p align="center">
   <a href="https://github.com/he4rt/4noobs" target="_blank">
-    <img src="https://github.com/he4rt/4noobs/blob/master/.github/footer_4noobs.svg" width="300">
+    <img src="https://github.com/he4rt/4noobs/blob/master/.github/footer_4noobs.svg" width="250">
   </a>
 </p>
 
