@@ -58,13 +58,13 @@ são **extremamente apreciadas**
 
 ## Autores
 
-- **Nome Completo** - _Especialidade_ - [@nickname](seutwitter)
+- **Carlos Daniel (carlosdnba)** - _Full Stack Developer_ - [Portifólio](http://carlosdnba.me/) - [Linkedin](https://www.linkedin.com/in/carlos-daniel-barboza)
 
 ---
 
 <p align="center">
   <a href="https://github.com/he4rt/4noobs" target="_blank">
-    <img src="./assets/footer_4noobs.svg" width="380">
+    <img src="https://github.com/he4rt/4noobs/blob/master/.github/footer_4noobs.svg" width="300">
   </a>
 </p>
 
