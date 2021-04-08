@@ -22,14 +22,14 @@
  <!-- ABOUT THE PROJECT -->
 
 ## Sobre o Projeto
-Explique um pouco sobre o 4noobs que está desenvolvendo.
+Este 4noobs é para aqueles que já ouviram falar linguagens de banco de dados noSQL e ficaram curiosos, mas, não encontraram nenhum conteúdo sobre. Dentre tais linguagens, de longe o MongoDB se destaca, sendo utilizado por diversas empresas de tecnologia ao redor do mundo.
 
 <!-- ROADMAP -->
 
 ## ROADMAP
 
-- [Conteúdo 1](link-primeira-parte)
-- [Conteúdo 2](link-segunda-parte)
+- [1. Introdução ao MongoDB](./docs/introducao.md)
+- [2. Preparação do ambiente](./docs/preparacao-ambiente.md)
 - [Conteúdo 3](link-terceira-parte)
   - [Sub-conteúdo](link-sub-conteudo)
   	- [Sub-conteúdo](link-sub-conteudo)
@@ -60,7 +60,6 @@ são **extremamente apreciadas**
 - **Carlos Daniel (carlosdnba)** - _Full Stack Developer_ - [Portifólio](http://carlosdnba.me/) - [Linkedin](https://www.linkedin.com/in/carlos-daniel-barboza)
 
 
-#
 ## Contribuidores ✨
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -86,7 +85,7 @@ são **extremamente apreciadas**
 
 <p align="center">
   <a href="https://github.com/he4rt/4noobs" target="_blank">
-    <img src="https://github.com/he4rt/4noobs/blob/master/.github/footer_4noobs.svg" width="250">
+    <img src="https://github.com/he4rt/4noobs/blob/master/.github/footer_4noobs.svg" width="280">
   </a>
 </p>
 
