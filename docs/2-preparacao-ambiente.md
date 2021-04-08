@@ -3,7 +3,7 @@
 1. <a href="#windows">Windows</a>
 2. <a href="#linux">Linux</a>
 3. <a href="#mac">MacOS</a>
-3. <a href="#atlas">Rodando na nuvem (MongoDB Atlas)</a>
+4. <a href="#atlas">Rodando na nuvem (MongoDB Atlas)</a>
 
 <h2 id="windows">Windows</h2>
 
