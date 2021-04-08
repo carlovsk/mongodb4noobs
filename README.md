@@ -30,14 +30,9 @@ Este 4noobs é para aqueles que já ouviram falar linguagens de banco de dados n
 
 - [1. Introdução ao MongoDB](./docs/introducao.md)
 - [2. Preparação do ambiente](./docs/preparacao-ambiente.md)
-- [Conteúdo 3](link-terceira-parte)
-  - [Sub-conteúdo](link-sub-conteudo)
-  	- [Sub-conteúdo](link-sub-conteudo)
-  - [Sub-conteúdo](link-sub-conteudo)
-- [Conteúdo 4](link-quarta-parte)
-- [Conteúdo 5](link-quinta-parte)
-  - [Sub-conteúdo](link-sub-conteudo)
-  - [Sub-conteúdo](link-sub-conteudo)
+- [3. Iniciando no MongoDB](link-terceira-parte)
+  - [3.1. Principais comandos](link-sub-conteudo)
+- [4. Primeiro projeto com Node e MongoDB](link-quarta-parte)
   
   
 <!-- CONTRIBUTING -->
