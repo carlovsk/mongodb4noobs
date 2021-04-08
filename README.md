@@ -28,12 +28,12 @@ Este 4noobs é para aqueles que já ouviram falar linguagens de banco de dados n
 
 ## ROADMAP
 
-- [1. Introdução ao MongoDB](./docs/introducao.md)
-- [2. Preparação do ambiente](./docs/preparacao-ambiente.md)
-  - [2.1. Windows](./docs/preparacao-ambiente.md#windows) 
-  - [2.2. Linux](./docs/preparacao-ambiente.md#linux) 
-  - [2.3. MacOS](./docs/preparacao-ambiente.md#mac) 
-  - [2.4. Atlas](./docs/preparacao-ambiente.md#atlas) 
+- [1. Introdução ao MongoDB](./docs/1-introducao.md)
+- [2. Preparação do ambiente](./docs/2-preparacao-ambiente.md)
+  - [2.1. Windows](./docs/2-preparacao-ambiente.md#windows) 
+  - [2.2. Linux](./docs/2-preparacao-ambiente.md#linux) 
+  - [2.3. MacOS](./docs/2-preparacao-ambiente.md#mac) 
+  - [2.4. Atlas](./docs/2-preparacao-ambiente.md#atlas) 
 - [3. Iniciando no MongoDB](link-terceira-parte)
   - [3.1. Principais comandos](link-sub-conteudo)
 - [4. Primeiro projeto com Node e MongoDB](link-quarta-parte)
