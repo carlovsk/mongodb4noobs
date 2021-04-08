@@ -30,6 +30,10 @@ Este 4noobs é para aqueles que já ouviram falar linguagens de banco de dados n
 
 - [1. Introdução ao MongoDB](./docs/introducao.md)
 - [2. Preparação do ambiente](./docs/preparacao-ambiente.md)
+  - [2.1. Windows](./docs/preparacao-ambiente.md#windows) 
+  - [2.2. Linux](./docs/preparacao-ambiente.md#linux) 
+  - [2.3. MacOS](./docs/preparacao-ambiente.md#mac) 
+  - [2.4. Atlas](./docs/preparacao-ambiente.md#atlas) 
 - [Conteúdo 3](link-terceira-parte)
   - [Sub-conteúdo](link-sub-conteudo)
   	- [Sub-conteúdo](link-sub-conteudo)
