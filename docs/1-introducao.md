@@ -13,3 +13,6 @@ Dentre as vantagens de se usar o Mongo, podemos listar:
   Os `schemas` (esquemas) do mongo são extremamente dinâmicos e flexíveis. Não há necessidade de pre-definir os dados no seu banco de dados (ou tabela). Os atributos podem variar de documento para documento, e você pode mudar as estruturas a qualquer momento.
 - **JSON em todo lugar**:
   Leves, independentes de linguagem e `human readable` (legível para pessoas não devs), o JSON foi estabelecido como padrão para os dados salvos no mongo. Essa decisão facilita muito a compreensão dos desenvolvedores, principalmente pelo fato de que a grande maioria das APIs modernas adotam JSON como modelo de dados para suas requisições.
+
+<br/>
+Próximo tópico: <a href="2-preparacao-ambiente.md">Preparação do ambiente</a>

@@ -262,3 +262,5 @@ O comando `deleteMany(filter)` apaga os documento desejado. Como primeiro parâm
 { "acknowledged" : true, "deletedCount" : 2 }
 ```
 
+<br/>
+Próximo tópico: <a href="4-primeiro-projeto.md">Primeiro projeto com Node e MongoDB</a>
