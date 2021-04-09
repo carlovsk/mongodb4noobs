@@ -34,8 +34,13 @@ Este 4noobs é para aqueles que já ouviram falar linguagens de banco de dados n
   - [2.2. Linux](./docs/2-preparacao-ambiente.md#linux) 
   - [2.3. MacOS](./docs/2-preparacao-ambiente.md#mac) 
   - [2.4. Atlas](./docs/2-preparacao-ambiente.md#atlas) 
-- [3. Iniciando no MongoDB](link-terceira-parte)
-  - [3.1. Principais comandos](link-sub-conteudo)
+- [3. Iniciando no MongoDB](./docs/3-iniciando-mongo.md)
+  - 3.1. [Básicos MongoDB](./docs/3-iniciando-mongo.md#basic)
+  - 3.2. [Create](./docs/3-iniciando-mongo.md#create)
+  - 3.3. [Read](./docs/3-iniciando-mongo.md#read)
+  - 3.4. [Update](./docs/3-iniciando-mongo.md#update)
+  - 3.5. [Delete](./docs/3-iniciando-mongo.md#delete)
+  - 3.6. [Outras Funções](./docs/3-iniciando-mongo.md#functions)
 - [4. Primeiro projeto com Node e MongoDB](link-quarta-parte)
   
   
