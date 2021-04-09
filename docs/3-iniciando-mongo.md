@@ -118,7 +118,7 @@ O comando `insertMany(data, options)` é semelhante ao primeiro comando, mas, di
 ```
 
 <br/>
-<h2 id="create">Create</h2>
+<h2 id="read">Read</h2>
 
 <h3>find()</h3>
 
