@@ -10,7 +10,6 @@
 Faça o download do [MongoDB Community Server](https://www.mongodb.com/try/download/community) no site oficial. Escolha o Windows como plataforma, baixe e instale o pacote.
 
 <br/>
-<br/>
 <h2 id="linux">Linux</h2>
 
 Para começar, importe a chave GPG pública para a versão estável mais recente do MongoDB com o comando 
@@ -43,7 +42,6 @@ sudo systemctl enable mongod
 Por fim, abra o Mongo no terminal com o comando `mongo`!
 
 <br/>
-<br/>
 <h2 id="mac">MacOS</h2>
 
 Para instalar no macOS utilizando o `brew`, rode o seguinte comando:
@@ -60,7 +58,6 @@ Essa instalação inclui os seguintes binários:
 
 Por fim, abra o Mongo no terminal com o comando `mongo`!
 
-<br/>
 <br/>
 <h2 id="atlas">MongoDB Atlas</h2>
 

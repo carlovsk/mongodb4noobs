@@ -210,7 +210,6 @@ O comando `updateOne(filter, data)` faz a alteração de apenas um documento. Co
 
 ```
 > db.users.updateOne({"_id" : ObjectId("606f980f74ef57c2fec8495e")}, {$set: {"password": "nova-senha"}})
-
 { "acknowledged" : true, "matchedCount" : 1, "modifiedCount" : 1 }
 ```
 
@@ -231,7 +230,6 @@ O comando `replaceOne(filter, data)` substitui todo um documento por um novo. Co
 
 ```
 > db.users.replaceOne({"_id" : ObjectId("606f980f74ef57c2fec8495e")}, {"password": "nova-senha"})
-
 { "acknowledged" : true, "matchedCount" : 1, "modifiedCount" : 1 }
 ```
 
@@ -246,7 +244,6 @@ O comando `deleteOne(filter)` apaga o documento desejado. Como primeiro parâmet
 
 ```
 > db.users.deleteOne({"_id": ObjectId("606f980f74ef57c2fec8495e")})
-
 { "acknowledged" : true, "deletedCount" : 1 }
 ```
 
@@ -258,7 +255,6 @@ O comando `deleteMany(filter)` apaga os documento desejado. Como primeiro parâm
 
 ```
 > db.users.deleteMany({"password": "pswd"})
-
 { "acknowledged" : true, "deletedCount" : 2 }
 ```
 
