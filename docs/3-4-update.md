@@ -33,3 +33,9 @@ O comando `replaceOne(filter, data)` substitui todo um documento por um novo. Co
 *Obs.* Tente utilizar sempre o `_id` como filtro, para garantir que substituirá o item certo.
 
 <br/>
+
+Próximo sub-tópico: <a href="3-5-delete.md#delete">Comandos Delete</a>
+
+Próximo tópico: <a href="4-primeiro-projeto.md">Primeiro projeto com Node e MongoDB</a>
+
+Voltar para a <a href="../README.md">Home</a>

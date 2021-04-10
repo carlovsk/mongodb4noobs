@@ -50,3 +50,9 @@ O comando `insertMany(data, options)` é semelhante ao primeiro comando, mas, di
 ```
 
 <br/>
+
+Próximo sub-tópico: <a href="3-3-read.md#read">Comandos Read</a>
+
+Próximo tópico: <a href="4-primeiro-projeto.md">Primeiro projeto com Node e MongoDB</a>
+
+Voltar para a <a href="../README.md">Home</a>

@@ -64,4 +64,6 @@ Por fim, abra o Mongo no terminal com o comando `mongo`!
 Além de todas as instalações anteriores, o Mongo permite que você rode bases de dados na nuvem com o Atlas. Para mais informações de como isso funciona, acesse a [documentação oficial](https://www.mongodb.com/cloud/atlas).
 
 <br/>
-Próximo tópico: <a href="3-iniciando-mongo.md">Iniciando no MongoDB</a>
+Próximo tópico: <a href="3-iniciando-mongo.md">3. Iniciando no MongoDB</a>
+
+Voltar para a <a href="../README.md">Home</a>
