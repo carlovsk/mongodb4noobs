@@ -85,6 +85,6 @@ Como você já deve imaginar, o comando `findOne(filter)` retorna apenas o prime
 
 Próximo sub-tópico: <a href="3-4-update.md#update">Comandos Update</a>
 
-Próximo tópico: <a href="4-primeiro-projeto.md">Primeiro projeto com Node e MongoDB</a>
+Próximo tópico: <a href="4-primeiro-projeto.md#primeiro-projeto">Primeiro projeto com Node e MongoDB</a>
 
-Voltar para a <a href="../README.md">Home</a>
+Voltar para a <a href="../README.md#readme">Home</a>

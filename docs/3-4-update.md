@@ -36,6 +36,6 @@ O comando `replaceOne(filter, data)` substitui todo um documento por um novo. Co
 
 Próximo sub-tópico: <a href="3-5-delete.md#delete">Comandos Delete</a>
 
-Próximo tópico: <a href="4-primeiro-projeto.md">Primeiro projeto com Node e MongoDB</a>
+Próximo tópico: <a href="4-primeiro-projeto.md#primeiro-projeto">Primeiro projeto com Node e MongoDB</a>
 
-Voltar para a <a href="../README.md">Home</a>
+Voltar para a <a href="../README.md#readme">Home</a>

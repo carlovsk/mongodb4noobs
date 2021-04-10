@@ -22,6 +22,6 @@ O comando `deleteMany(filter)` apaga os documento desejado. Como primeiro parâm
 
 <br/>
 
-Próximo tópico: <a href="4-primeiro-projeto.md">Primeiro projeto com Node e MongoDB</a>
+Próximo tópico: <a href="4-primeiro-projeto.md#primeiro-projeto">Primeiro projeto com Node e MongoDB</a>
 
-Voltar para a <a href="../README.md">Home</a>
+Voltar para a <a href="../README.md#readme">Home</a>

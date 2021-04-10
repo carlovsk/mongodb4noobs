@@ -59,6 +59,6 @@ system.version
 
 Próximo sub-tópico: <a href="3-2-create.md#create">Comandos Create</a>
 
-Próximo tópico: <a href="4-primeiro-projeto.md">Primeiro projeto com Node e MongoDB</a>
+Próximo tópico: <a href="4-primeiro-projeto.md#primeiro-projeto">Primeiro projeto com Node e MongoDB</a>
 
-Voltar para a <a href="../README.md">Home</a>
+Voltar para a <a href="../README.md#readme">Home</a>

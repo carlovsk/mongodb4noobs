@@ -1,4 +1,4 @@
-<h1 align="center">Introdução ao MongoDB</h1>
+<h1 align="center" id="introducao">Introdução ao MongoDB</h1>
 
 O MongoDB é um banco de dados NoSQL baseado em documentos. Isso quer dizer que, diferente das tradicionais linguagens de banco de dados (aka SQL), o Mongo salva seus dados como objetos JSON. Por exemplo, para salvar uma pessoa com alguns atributos, pode-se fazer da seguinte forma:
 <br/>
@@ -16,6 +16,6 @@ Dentre as vantagens de se usar o Mongo, podemos listar:
 
 <br/>
 
-Próximo tópico: <a href="2-preparacao-ambiente.md">2. Preparação do ambiente</a>
+Próximo tópico: <a href="2-preparacao-ambiente.md#preparacao-ambiente">2. Preparação do ambiente</a>
 
-Voltar para a <a href="../README.md">Home</a>
+Voltar para a <a href="../README.md#readme">Home</a>

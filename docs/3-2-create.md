@@ -53,6 +53,6 @@ O comando `insertMany(data, options)` é semelhante ao primeiro comando, mas, di
 
 Próximo sub-tópico: <a href="3-3-read.md#read">Comandos Read</a>
 
-Próximo tópico: <a href="4-primeiro-projeto.md">Primeiro projeto com Node e MongoDB</a>
+Próximo tópico: <a href="4-primeiro-projeto.md#primeiro-projeto">Primeiro projeto com Node e MongoDB</a>
 
-Voltar para a <a href="../README.md">Home</a>
+Voltar para a <a href="../README.md#readme">Home</a>
