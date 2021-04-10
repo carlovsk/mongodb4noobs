@@ -28,19 +28,19 @@ Este 4noobs é para aqueles que já ouviram falar linguagens de banco de dados n
 
 ## ROADMAP
 
-- [1. Introdução ao MongoDB](./docs/1-introducao.md)
-- [2. Preparação do ambiente](./docs/2-preparacao-ambiente.md)
-  - [2.1. Windows](./docs/2-preparacao-ambiente.md#windows) 
-  - [2.2. Linux](./docs/2-preparacao-ambiente.md#linux) 
-  - [2.3. MacOS](./docs/2-preparacao-ambiente.md#mac) 
-  - [2.4. Atlas](./docs/2-preparacao-ambiente.md#atlas) 
-- [3. Iniciando no MongoDB](./docs/3-iniciando-mongo.md)
-  - 3.1. [Básicos MongoDB](./docs/3-1-basicos.md#basic)
-  - 3.2. [Create](./docs/3-2-create.md#create)
-  - 3.3. [Read](./docs/3-3-read.md#read)
-  - 3.4. [Update](./docs/3-4-update.md#update)
-  - 3.5. [Delete](./docs/3-5-delete.md#delete)
-- [4. Primeiro projeto com Node e MongoDB](./docs/4-primeiro-projeto.md)
+- [1. Introdução ao MongoDB][introducao]
+- [2. Preparação do ambiente][preparacao-ambiente]
+  - [2.1. Windows][preparacao-ambiente-windows]
+  - [2.2. Linux][preparacao-ambiente-linux]
+  - [2.3. MacOS][preparacao-ambiente-mac]
+  - [2.4. Atlas][preparacao-ambiente-atlas]
+- [3. Iniciando no MongoDB][iniciando-mongo]
+  - [3.1. Básicos MongoDB][iniciando-mongo-basic]
+  - [3.2. Create][iniciando-mongo-create]
+  - [3.3. Read][iniciando-mongo-read]
+  - [3.4. Update][iniciando-mongo-update]
+  - [3.5. Delete][iniciando-mongo-delete]
+- [4. Primeiro projeto com Node e MongoDB][primeiro-projeto]
   
   
 <!-- CONTRIBUTING -->
@@ -93,3 +93,19 @@ são **extremamente apreciadas**
 </p>
 
 <p align="center">Made with 💜</p>
+
+
+<!-- VARIABLES LINKS -->
+[introducao]: ./docs/1-introducao.md
+[preparacao-ambiente]: ./docs/2-preparacao-ambiente.md
+[preparacao-ambiente-windows]: ./docs/2-preparacao-ambiente.md#windows
+[preparacao-ambiente-linux]: ./docs/2-preparacao-ambiente.md#linux
+[preparacao-ambiente-mac]: ./docs/2-preparacao-ambiente.md#mac
+[preparacao-ambiente-atlas]: ./docs/2-preparacao-ambiente.md#atlas
+[iniciando-mongo]: ./docs/3-iniciando-mongo.md
+[iniciando-mongo-basic]: ./docs/3-1-basicos.md#basic
+[iniciando-mongo-create]: ./docs/3-2-create.md#create
+[iniciando-mongo-read]: ./docs/3-3-read.md#read
+[iniciando-mongo-update]: ./docs/3-4-update.md#update
+[iniciando-mongo-delete]: ./docs/3-5-delete.md#delete
+[primeiro-projeto]: ./docs/4-primeiro-projeto.md
