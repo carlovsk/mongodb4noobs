@@ -4,7 +4,7 @@
 <p align="center">
 
   <h1 align="center">
-    <img src="assets/mongodb.svg" alt="Logo">
+    <img src="assets/mongodb.svg" alt="Logo" width="320">
   </h1>
   <p align="center">
     <a href="https://opensource.org/licenses/MIT">
