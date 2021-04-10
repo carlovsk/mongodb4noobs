@@ -37,6 +37,7 @@ const app = express();
 app.use(express.json());
 
 // Estabelecendo rotas
+// Create
 app.post('/users', async (req, res) => {
   const user = req.body;
 
@@ -51,9 +52,27 @@ app.get('/users', async (req, res) => {
   res.status(200).json({ users: users });
 });
 
+// Read
 app.get('/users/:id', async (req, res) => {
   const id = req.params.id;
   const user = await User.findById(id);
+
+  res.status(200).json({ user: user });
+});
+
+// Update
+app.put('/users/:id', async (req, res) => {
+  const id = req.params.id;
+  const body = req.body;
+  const user = await User.findByIdAndUpdate(id, body);
+
+  res.status(200).json({ user: user });
+});
+
+// Delete
+app.delete('/users/:id', async (req, res) => {
+  const id = req.params.id;
+  const user = await User.findByIdAndDelete(id);
 
   res.status(200).json({ user: user });
 });
