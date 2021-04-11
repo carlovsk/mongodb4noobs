@@ -41,6 +41,13 @@ Este 4noobs é para aqueles que já ouviram falar linguagens de banco de dados n
   - [3.4. Update][iniciando-mongo-update]
   - [3.5. Delete][iniciando-mongo-delete]
 - [4. Primeiro projeto com Node e MongoDB][primeiro-projeto]
+  - [4.1. Iniciando o projeto][iniciando-projeto]
+  - [4.2. Criando o primeira model][criando-model]
+  - [4.3. Estabelecendo a rota create][estabelecendo-rota-create]
+  - [4.4. Estabelecendo as rotas read][estabelecendo-rota-read]
+  - [4.5. Estabelecendo a rota update][estabelecendo-rota-update]
+  - [4.6. Estabelecendo a rota delete][estabelecendo-rota-delete]
+- [5. Conclusão][conclusao]
   
   
 <!-- CONTRIBUTING -->
@@ -109,3 +116,10 @@ são **extremamente apreciadas**
 [iniciando-mongo-update]: ./docs/3-4-update.md#update
 [iniciando-mongo-delete]: ./docs/3-5-delete.md#delete
 [primeiro-projeto]: ./docs/4-primeiro-projeto.md#primeiro-projeto
+[iniciando-projeto]: ./docs/4-1-iniciando-projeto.md#iniciando-projeto
+[criando-model]: ./docs/4-2-criando-model.md#criando-model
+[estabelecendo-rota-create]: ./docs/4-3-estabelecendo-rota-create.md#estabelecendo-rota-create
+[estabelecendo-rota-read]: ./docs/4-4-estabelecendo-rota-read.md#estabelecendo-rota-read
+[estabelecendo-rota-update]: ./docs/4-5-estabelecendo-rota-update.md#estabelecendo-rota-update
+[estabelecendo-rota-delete]: ./docs/4-6-estabelecendo-rota-delete.md#estabelecendo-rota-delete
+[conclusao]: ./docs/5-conclusao.md#conclusao
