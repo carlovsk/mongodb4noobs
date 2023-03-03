@@ -1,6 +1,6 @@
 <h1 align="center" id="basic">Comandos Básicos do MongoDB</h1>
 
-Iremos analizar aqui 6 comandos básicos e utilitários que o Mongo fornece.
+Iremos analisar aqui 6 comandos básicos e utilitários que o Mongo fornece.
 
 <h2>show dbs</h2>
 
