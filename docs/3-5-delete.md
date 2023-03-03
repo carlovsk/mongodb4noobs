@@ -9,11 +9,11 @@ O comando `deleteOne(filter)` apaga o documento desejado. Como primeiro parâmet
 { "acknowledged" : true, "deletedCount" : 1 }
 ```
 
-*Obs.* Tente utilizar sempre o `_id` como filtro, para garantir que deletará o item certo.
+*Obs:* Tente utilizar sempre o `_id` como filtro, para garantir que deletará o item certo.
 
 <h2>deleteMany(filter, data)</h2>
 
-O comando `deleteMany(filter)` apaga os documento desejado. Como primeiro parâmetro, devemos passar um objeto como filtro, semelhante ao filtro utilizado nos métodos `find()`.
+O comando `deleteMany(filter)` apaga o documento desejado. Como primeiro parâmetro, devemos passar um objeto como filtro, semelhante ao filtro utilizado nos métodos `find()`.
 
 ```
 > db.users.deleteMany({"password": "pswd"})

@@ -1,8 +1,6 @@
 <h1 align="center" id="introducao">Introdução ao MongoDB</h1>
 
 O MongoDB é um banco de dados NoSQL baseado em documentos. Isso quer dizer que, diferente das tradicionais linguagens de banco de dados (aka SQL), o Mongo salva seus dados como objetos JSON. Por exemplo, para salvar uma pessoa com alguns atributos, pode-se fazer da seguinte forma:
-<br/>
-<br/>
 
 ~~~~json
 
@@ -21,9 +19,8 @@ O MongoDB é um banco de dados NoSQL baseado em documentos. Isso quer dizer que,
 
 ~~~~
 
-<br/>
-<br/>
 Dentre as vantagens de se usar o Mongo, podemos listar:
+
 - **Modelo de dados mais intuitivo**:
   Por padrão, os desenvolvedores já estão acostumados a ver objetos em seu dia a dia. Dessa forma, se torna muito mais natural usar esse mindset na construção do seu banco de dados. Não há necessidade de separar o dado em diversas tabelas, gastar seus neurônios com joins ou integrar ORMs separados. Os dados são acessados e gravados juntos, dessa forma, dando uma melhor performance através de menos linhas de código (e menos debug/dor de cabeça).
 - **Esquemas flexíveis e adaptáveis**:

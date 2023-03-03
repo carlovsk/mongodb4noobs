@@ -10,7 +10,7 @@ O comando `updateOne(filter, data)` faz a alteração de apenas um documento. Co
 { "acknowledged" : true, "matchedCount" : 1, "modifiedCount" : 1 }
 ```
 
-*Obs.* Tente utilizar sempre o `_id` como filtro, para garantir que atualizará o item certo.
+*Obs:* Tente utilizar sempre o `_id` como filtro, para garantir que atualizará o item certo.
 
 <h2>updateMany(filter, data)</h2>
 
@@ -30,7 +30,7 @@ O comando `replaceOne(filter, data)` substitui todo um documento por um novo. Co
 { "acknowledged" : true, "matchedCount" : 1, "modifiedCount" : 1 }
 ```
 
-*Obs.* Tente utilizar sempre o `_id` como filtro, para garantir que substituirá o item certo.
+*Obs:* Tente utilizar sempre o `_id` como filtro, para garantir que substituirá o item certo.
 
 <br/>
 
